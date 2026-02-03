@@ -30,3 +30,7 @@ p{
     margin:20px;
     background-color: beige;
 }
+
+a{
+    font-family: 'Courier New', Courier, monospace;
+}
