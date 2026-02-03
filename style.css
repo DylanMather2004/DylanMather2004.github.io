@@ -1,8 +1,32 @@
 body {
 background-color: bisque;
-
+}
 h1{
     color:brown;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
+h2{
+    color:brown;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    
+    color:indianred;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#parent div{
+    width: 600px;
+    padding: 50px;
+    margin:20px;
+    background-color: beige;
 }
